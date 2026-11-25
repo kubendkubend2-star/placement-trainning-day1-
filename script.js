@@ -1,6 +1,5 @@
-//function ShowMyMessage()
-{
-    console.log("Hello");
+//function ShowMyMessage(){
+    //console.log("Hello");
 //}
 
 //1.Number
@@ -142,4 +141,3 @@ function add(a)
 add("Gokul");
 add("Arun");
 //
-for(Let )
